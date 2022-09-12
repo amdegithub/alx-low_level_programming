@@ -1,4 +1,5 @@
 #!/bin/bash
+gcc -c $CFILE
 #include <studio.h>
 
 /**
