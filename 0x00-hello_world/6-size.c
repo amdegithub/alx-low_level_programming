@@ -14,6 +14,7 @@ int main(void)
 	long li;
 	long long lli;
 	flot f;
+
 	printf("size of a char: %1d byte (s)\n", sizeof(c));
 	printf("size of a int: %1d byte (s)\n", sizeof(i)); 
        	printf("size of a long: %1d byte (s)\n", sizeof(li));
