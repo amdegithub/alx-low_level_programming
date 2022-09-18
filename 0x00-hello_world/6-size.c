@@ -9,15 +9,15 @@
 */
 int main(void)  
 {
-	char i;
+	char c;
 	int i;
 	long li;
 	long long lli;
-	flot f;
+	float f;
 
 	printf("size of a char: %1d byte (s)\n", sizeof(c));
 	printf("size of a int: %1d byte (s)\n", sizeof(i)); 
        	printf("size of a long: %1d byte (s)\n", sizeof(li));
 	printf("size of a long long: %1d byte (s)\n", sizeof(lli));
-	printf("size of a flot: %1d byte (s)\n", sizeof(f)); 
+	printf("size of a float: %1d byte (s)\n", sizeof(f)); 
 }
